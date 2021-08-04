@@ -1,0 +1,6 @@
+2021-07-22 01:35:37 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "PERSON_ID[*]"; expected "PREPARE"; SQL statement:
+PERSON_ID [42001-200]
+2021-07-22 19:40:51 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "PHONE[*]"; expected "PREPARE"; SQL statement:
+PHONE [42001-200]
